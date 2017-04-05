@@ -1,5 +1,5 @@
 locale: "en-US"
-title: Strata # Title of your site
+title: Portfolio # Title of your site
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
@@ -18,7 +18,7 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Strata Reloaded Template
+  name: Portfolio Website 
   links:
     - https://github.com/prshntpnwr/
 
