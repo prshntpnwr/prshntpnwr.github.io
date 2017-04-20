@@ -1,5 +1,5 @@
 - name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
+  link: 'https://www.facebook.com/prashant.panwar.50746'
   social_icon: Facebook
   new_window: true
 - name: RSS
@@ -7,10 +7,10 @@
   social_icon: RSS
   new_window: true
 - name: LinkedIn
-  link: 'https://www.linkedin.com'
+  link: 'https://www.linkedin.com/prshntpnwr'
   social_icon: LinkedIn
   new_window: true
 - name: GitHub
-  link: 'https://github.com/'
+  link: 'https://github.com/prshntpnwr'
   social_icon: GitHub
   new_window: true
