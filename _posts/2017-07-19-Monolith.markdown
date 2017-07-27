@@ -1,0 +1,7 @@
+---
+layout: post
+---
+<a href="https://github.com/prshntpnwr/Monolith"><img src="/images/fulls/07.png" class="fit image"></a> <strong><a href="https://github.com/prshntpnwr/Monolith">Monolith</a></strong> is the Capstone project in Udacity's Android Developer Nanodegree.
+
+A Wallpaper And News Reader Application for Science and Nature fans. You can Browse through cool images and wallpapers and read daily news headlines *Without Ads*. 
+
